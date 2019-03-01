@@ -86,7 +86,7 @@ function getColVals(c, type) {
             //{ name: "part_of",
             //  value: render(owl.getAncestorsOver(c, part_of, true, false)) }
         ]);
-        relObjs.forEach(function(r) {
+        relObjs.forEach((r) => {
             vals.push(
                 { name: r.label,
                   value: render(owl.getAncestorsOver(c, r.obj, true, false)) }
