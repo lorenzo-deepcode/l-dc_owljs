@@ -18,4 +18,3 @@ manager. For now, do this hacky measure:
     ln -s ~/repos/owljs owl
     ln -s ~/repos/owljs owljs
 
-
