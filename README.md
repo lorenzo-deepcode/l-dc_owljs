@@ -207,3 +207,4 @@ towards some kind of standard REST access to the OWLAPI.
 On balance, after having experimented with other options, the js+java
 combination works well for our group. YMMV.
 
+
